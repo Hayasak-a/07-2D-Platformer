@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Legends of Runeterra - Hextech Lab (Piltover_Zaun Board Soundtrack).ogg-2303a31d702efe7cb8fd0889c6510167.oggstr"
+
+[deps]
+
+source_file="res://assets/Legends of Runeterra - Hextech Lab (Piltover_Zaun Board Soundtrack).ogg"
+dest_files=[ "res://.import/Legends of Runeterra - Hextech Lab (Piltover_Zaun Board Soundtrack).ogg-2303a31d702efe7cb8fd0889c6510167.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
